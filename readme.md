@@ -6,3 +6,4 @@ Links for setup and reference:
  - https://stackoverflow.com/questions/39494631/gpg-failed-to-sign-the-data-fatal-failed-to-write-commit-object-git-2-10-0
    - var export solution worked for me in mac intel
  - https://gist.github.com/troyfontaine/18c9146295168ee9ca2b30c00bd1b41e (pinentry-mac)
+ - https://stackoverflow.com/questions/49107180/disable-enter-passphrase-for-each-commit (Disable passphrase entry for windows)
