@@ -1,4 +1,4 @@
-Test from my MBP13
+Test from my MBP13 with verify this time
 
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
