@@ -1,4 +1,4 @@
-Test windows
+Test windows pin-entry bypass
 
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
