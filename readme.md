@@ -1,5 +1,7 @@
 Test from my MBP13 with verify this time
 
+test 2
+
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
  - https://gist.github.com/Beneboe/3183a8a9eb53439dbee07c90b344c77e
