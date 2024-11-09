@@ -1,4 +1,4 @@
-Update GPGa
+Update by Macbook Pro
 
 Links for setup and reference:
  - https://gist.github.com/Beneboe/3183a8a9eb53439dbee07c90b344c77e
