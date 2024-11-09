@@ -1,4 +1,4 @@
-Test from my MSI PC
+Test from my MBP13
 
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
