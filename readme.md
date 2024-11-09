@@ -1,4 +1,4 @@
-Test Linux gpg key,
+Test from my MSI PC
 
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
