@@ -1,4 +1,4 @@
-Update by Macbook Pro
+Restart check
 
 Links for setup and reference:
  - https://gist.github.com/Beneboe/3183a8a9eb53439dbee07c90b344c77e
