@@ -1,4 +1,6 @@
-MacBook pass phrase touch id has bugs 
+MacBook pass phrase touch id has bugs
+
+updated via codespace
 
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
