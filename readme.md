@@ -1,6 +1,6 @@
 Test from my MBP13 with verify this time
 
-test ryzen test again reboot
+test ryzen linux test
 
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
