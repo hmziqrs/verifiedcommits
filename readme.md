@@ -1,7 +1,7 @@
 Test from my MBP13 with verify this time
 
 test ryzen linux test
-macbook reset test
+macbook reset test again
 
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
