@@ -4,7 +4,7 @@ test ryzen linux test
 macbook reset test again
 test gpg
 
-test passwordlress
+test passwordlress again
 
 Links for setup and reference:
  - https://formulae.brew.sh/formula/gnupg [GPG download link for mac]
